@@ -1,0 +1,18 @@
+# Uncomment the next line to define a global platform for your project
+
+# platform :ios, '9.0'
+source 'https://github.com/CocoaPods/Specs.git'
+source 'https://gitee.com/wang-bendong/module-ccode.git'
+source 'https://github.com/LengToo-wang/ModuleB.git'
+
+target 'MainXM' do
+use_frameworks!
+
+pod 'ModuleC'
+pod 'ModuleB'
+#pod 'AFNetworking','3.2.1'
+#pod 'SDWebImage','4.4.2'
+#pod 'Masonry','1.1.0'
+#pod 'MJRefresh','3.2.3'
+
+end

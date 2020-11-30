@@ -1,0 +1,3 @@
+${PODS_ROOT}/Target Support Files/Pods-MainXM/Pods-MainXM-frameworks.sh
+${BUILT_PRODUCTS_DIR}/ModuleB/ModuleB.framework
+${BUILT_PRODUCTS_DIR}/ModuleC/ModuleC.framework

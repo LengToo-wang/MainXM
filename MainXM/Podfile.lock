@@ -1,0 +1,21 @@
+PODS:
+  - ModuleB (0.1.0)
+  - ModuleC (0.1.0)
+
+DEPENDENCIES:
+  - ModuleB
+  - ModuleC
+
+SPEC REPOS:
+  https://gitee.com/wang-bendong/module-ccode.git:
+    - ModuleC
+  https://github.com/LengToo-wang/ModuleB.git:
+    - ModuleB
+
+SPEC CHECKSUMS:
+  ModuleB: 0b066a1ade4550eaca16efbcad5e87e884d705a0
+  ModuleC: 9bb1e4e9a30e2fe8c7c5fe972c5b52ba9cdd15c4
+
+PODFILE CHECKSUM: 7aa8d320b66693585c232246922a3d9b98c7c16e
+
+COCOAPODS: 1.10.0
